@@ -1,6 +1,6 @@
 # Afraaz LLC
 
-Free software for the seafarers
+Free stuff for the seafarers
 
 I make software that fixes the problems with all the software I use on a regular basis. I maintain it for free because I gotta use it too. I figured I'd release it all for free if it might help anyone else. Everything is open source and licensed for you to use the code, fork it, change it, do whatever you want. Support me at [GitHub Sponsors](https://github.com/sponsors/afraaz-llc) if you feel like it.
 
