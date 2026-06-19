@@ -6,7 +6,9 @@ I make software that fixes the problems with all the software I use on a regular
 
 ## Current Projects
 
-### [TRACER336](https://github.com/afraaz-llc/TRACER336)
+### [TRACER336](https://github.com/afraaz-llc/tracer336)
+
+### [PASSWORDGENERATOR336](https://github.com/afraaz-llc/passwordgenerator336)
 
 ### [Comms Pictochat](https://github.com/afraaz-llc/comms-pictochat)
 
