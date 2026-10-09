@@ -12,9 +12,5 @@ I make software that fixes the problems with all the software I use on a regular
 
 ### [PASSWORDGENERATOR336](https://github.com/afraaz-llc/passwordgenerator336)
 
-### [Pictochat Comms](https://github.com/afraaz-llc/comms-pictochat)
-
-### [FPS Earth](https://github.com/afraaz-llc/fps-earth)
-
 
 if you need any support or got any business inquiries or anything like that just DM me on IG [@afraaz_ali](https://www.instagram.com/afraaz_ali/) I'm too lazy to set up a business email
